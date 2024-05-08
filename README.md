@@ -14,7 +14,7 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Tableau</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Population Dashboard](https://public.tableau.com/app/profile/kimberly.a.griffith/viz/PopulationDashboard_16786593683720/Dashboard1)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
@@ -22,6 +22,8 @@
 
 <h2> Certifications:</h2>
 
+- [Google Data Analytics Professional Certificate ](https://www.credly.com/badges/6ff26502-d381-48b2-82f0-28d6306e5d8a/linked_in_profile)
+  
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
