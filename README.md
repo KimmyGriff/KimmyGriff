@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kimmy! </h2>
    <b>She/Her</b>
-  <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+  <br/><a href="https://github.com/kimmygriff">Data Analyst</a>,
 
 <h2> Data Analytics Projects:</h2>
 
@@ -12,7 +12,7 @@
   - [Birthrate Dashboard](https://public.tableau.com/app/profile/kimberly.a.griffith/viz/BirthRateDashboard_16813568498370/HealthDashboard)
   - [GDP Dashboard](https://public.tableau.com/app/profile/kimberly.a.griffith/viz/GDPandHealthcareDashboard/GDPandHealthcare)
 - <b>Python</b>
-- - <b>Kaggle</b>
+- <b>Kaggle</b>
    - [Profile](https://www.kaggle.com/kimberlygriffith)
 
 <h2> Certifications:</h2>
