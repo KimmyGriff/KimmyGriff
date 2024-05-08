@@ -12,7 +12,8 @@
   - [Birthrate Dashboard](https://public.tableau.com/app/profile/kimberly.a.griffith/viz/BirthRateDashboard_16813568498370/HealthDashboard)
   - [GDP Dashboard](https://public.tableau.com/app/profile/kimberly.a.griffith/viz/GDPandHealthcareDashboard/GDPandHealthcare)
 - <b>Python</b>
-  - 
+- - <b>Kaggle</b>
+   - [Profile](https://www.kaggle.com/kimberlygriffith)
 
 <h2> Certifications:</h2>
 
@@ -30,6 +31,7 @@
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://www.linkedin.com/in/kimberly-griffith-5327b0273
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
