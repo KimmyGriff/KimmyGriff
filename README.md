@@ -20,16 +20,14 @@
 - [Google Data Analytics Professional Certificate ](https://www.credly.com/badges/6ff26502-d381-48b2-82f0-28d6306e5d8a/linked_in_profile)
   
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[twitter]: https://twitter.com/KimmyGriffster
+[instagram]: https://www.instagram.com/joshmadakor/](https://www.instagram.com/just.anonymouse_/
 [linkedin]: https://www.linkedin.com/in/kimberly-griffith-5327b0273
 
 
