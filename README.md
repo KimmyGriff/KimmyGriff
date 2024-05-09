@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kimmy! </h2>
-   <b>She/Her</b>
-  <br/><a href="https://github.com/kimmygriff">Data Analyst</a>,
+   
+  <br/><a href="https://github.com/kimmygriff">Data Analyst</a>
 
 <h2> Data Analytics Projects:</h2>
 
