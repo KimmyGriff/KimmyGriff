@@ -5,6 +5,7 @@
 <h2> Data Analytics Projects:</h2>
 
 - <b>R</b>
+   - [Kaggle Titanic Competition](https://github.com/KimmyGriff/Kaggle-Titanic-Competition/blob/main/KaggleTitanic.R)
 
 - <b>SQL</b>
 - <b>Tableau</b>
